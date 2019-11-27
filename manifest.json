@@ -1,0 +1,16 @@
+{
+  "short_name": "Explorin",
+  "name": "Explorin",
+  "start_url": "./index.html",
+  "description": "Go Explorin and see how much of the earth can you uncover?",
+  "icons": [
+    {
+      "src": "https://goexplorin.com/logo.png",
+      "sizes": "400x400",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
